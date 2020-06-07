@@ -1,10 +1,10 @@
 # Exploratory-data-analysis
 
-### Data: 
+### Data 
 Countries of the world
 
-### Data source: 
+### Data source
 Kaggle 
 
-### Aim: 
+### Aim 
 Perform basic exploratory data analysis and understand use of python for the same. 
